@@ -4,13 +4,14 @@
 
 I build business-focused analytics solutions that turn raw data into clear insights for decision-making.
 
-My portfolio covers **financial services, retail, sales, customer behaviour, profitability and operational performance**, using Power BI and Excel to move from data preparation through analysis, visualisation and business recommendations.
+My portfolio covers **financial services, retail, sales, customer behaviour, profitability and operational performance**, using Power BI, Excel, SQL and Python to move from data preparation through analysis, visualisation and business recommendations.
 
 ## 🔧 Analytics Toolkit
 
 - **Power BI** — Interactive dashboards, KPI reporting, DAX, data modelling, slicers and navigation
 - **Excel** — Power Query, PivotTables, PivotCharts, calculated columns, dashboard design and advanced analysis
 - **SQL** — Data querying, filtering, joins, aggregation and analytical exploration
+- **Python** — Data analysis, data manipulation and exploratory analysis
 - **Analytics** — Data cleaning, trend analysis, KPI development, business insight generation and data storytelling
 
 ## 📊 Featured Analytics Projects
