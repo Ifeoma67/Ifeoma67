@@ -1,4 +1,4 @@
-# Hi, I'm Ifeoma 👋
+# Hi, I'm Ifeoma 
 
 ### Data Analyst | Power BI • SQL • Excel | Business Intelligence & Data Visualisation
 
