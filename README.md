@@ -1,6 +1,6 @@
 # Hi, I'm Ifeoma 
 
-### Data Analyst | Power BI • SQL • Excel | Business Intelligence & Data Visualisation
+### Data Analyst | Power BI • SQL • Python • Excel | Business Intelligence & Data Visualisation
 
 I build business-focused analytics solutions that turn raw data into clear insights for decision-making.
 
